@@ -1,4 +1,4 @@
-package com.joshi.audit_service;
+package com.joshi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
